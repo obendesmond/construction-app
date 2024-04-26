@@ -1,7 +1,7 @@
-# Getting Started with Create React App
+# Construction App
+See Live Project: [Hosted Link](https://construction-app-pearl.vercel.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+ 
 ## Available Scripts
 
 In the project directory, you can run:
