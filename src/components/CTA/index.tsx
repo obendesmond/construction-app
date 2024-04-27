@@ -13,7 +13,7 @@ const CTA = () => {
         primary
         tags={
           <div className="flex flex-col md:flex-row justify-center md:justify-start gap-6">
-            <Button text="Contact Us" className="px-14" />
+            <Button text="Contact Us" className="pl-14 pr-14" />
             <Button text="Free Consultation" outline />
           </div>
         }
